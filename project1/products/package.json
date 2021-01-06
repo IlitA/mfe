@@ -1,9 +1,13 @@
 {
-  "name": "microfe",
+  "name": "products",
   "version": "1.0.0",
-  "description": "Playing with MFE",
+  "description": "",
   "main": "index.js",
-  "author": "ilitA",
+  "scripts": {
+    "start": "webpack serve"
+  },
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "faker": "^5.1.0",
