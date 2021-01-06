@@ -1,0 +1,8 @@
+{
+  "name": "microfe",
+  "version": "1.0.0",
+  "description": "Playing with MFE",
+  "main": "index.js",
+  "author": "ilitA",
+  "license": "ISC"
+}
