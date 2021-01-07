@@ -10,4 +10,4 @@
 ## What was done?
 - 3 MFEs (2 React, 1 Vue) + a container.
 - Github workflows that build and deploy (using AWS s3) each MFE separately.
--
+- Deployed on https://d3h0abycq4weqg.cloudfront.net/
