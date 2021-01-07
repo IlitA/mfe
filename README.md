@@ -8,6 +8,6 @@
 - No direct communication/dependencies between the smaller applications - that means that you can brake one part of the applications, but not the whole page/app
 
 ## What was done?
-- 3 MFEs + a container.
+- 3 MFEs (2 React, 1 Vue) + a container.
 - Github workflows that build and deploy (using AWS s3) each MFE separately.
 -
